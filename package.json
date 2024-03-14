@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igengdu/short.git"
+    "url": "git+https://github.com/yuolvv/cloudflare-short.git"
   },
   "keywords": [
     "short",
@@ -23,7 +23,7 @@
   "author": "x-dr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/igengdu/short/issues"
+    "url": "https://github.com/yuolvv/cloudflare-short/issues"
   },
-  "homepage": "https://github.com/igengdu/short/README.md"
+  "homepage": "https://github.com/yuolvv/cloudflare-short/README.md"
 }
